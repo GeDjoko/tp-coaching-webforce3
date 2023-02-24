@@ -1,9 +1,6 @@
 # tp-coaching-webforce3
 Instruction pour la session de coaching
 
-# tp-coaching-webforce3
-Instruction pour la session de coaching
-
 ##############################################################################################
 
 ## Exercice 1  - Scrum 
